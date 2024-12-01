@@ -5,8 +5,8 @@ This repository contains the backend for managing authentication, sessions, and 
 ## Setup
 ### 1. **Clone the Repository**
 ```bash
-git clone <repository-url>
-cd <repository-directory> 
+git clone https://github.com/iamahmedkhan94/TodoApp_backend.git
+cd TodoApp_backend 
 ```
 ## Installation
 
